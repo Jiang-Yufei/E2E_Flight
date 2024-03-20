@@ -1,0 +1,49 @@
+{
+  "configurations": [
+    {
+      "browse": {
+        "databaseFilename": "${default}",
+        "limitSymbolsToIncludedHeaders": false
+      },
+      "includePath": [
+        "/home/jyf/ROS_project/End_to_End_Flight/devel/include/**",
+        "/home/jyf/ROS_project/RACER-test/devel/include/**",
+        "/home/jyf/ROS_project/xhy/devel/include/**",
+        "/opt/ros/noetic/include/**",
+        "/home/jyf/ROS_project/xhy/src/Data_MainBoard/include/**",
+        "/home/jyf/catkin_ws/src/Test1/include/**",
+        "/home/jyf/ROS_project/RACER-test/src/RACER-main/swarm_exploration/active_perception/include/**",
+        "/home/jyf/ROS_project/RACER-test/src/RACER-main/swarm_exploration/bspline/include/**",
+        "/home/jyf/ROS_project/End_to_End_Flight/src/ego_planner/bspline_opt/include/**",
+        "/home/jyf/ROS_project/End_to_End_Flight/src/VINS-Fusion/camera_models/include/**",
+        "/home/jyf/ROS_project/End_to_End_Flight/src/ego_planner/drone_detect/include/**",
+        "/home/jyf/ROS_project/End_to_End_Flight/src/ego_planner/plan_manage/include/**",
+        "/home/jyf/ROS_project/RACER-test/src/RACER-main/swarm_exploration/exploration_manager/include/**",
+        "/home/jyf/ROS_project/RACER-test/src/RACER-main/swarm_exploration/utils/lkh_mtsp_solver/include/**",
+        "/home/jyf/ROS_project/RACER-test/src/RACER-main/swarm_exploration/utils/lkh_tsp_solver/include/**",
+        "/home/jyf/ROS_project/RACER-test/src/RACER-main/uav_simulator/local_sensing/include/**",
+        "/home/jyf/ROS_project/End_to_End_Flight/src/ego_planner/Utils/multi_map_server/include/**",
+        "/home/jyf/ROS_project/End_to_End_Flight/src/ego_planner/path_searching/include/**",
+        "/home/jyf/ROS_project/End_to_End_Flight/src/ego_planner/plan_env/include/**",
+        "/home/jyf/ROS_project/RACER-test/src/RACER-main/swarm_exploration/plan_manage/include/**",
+        "/home/jyf/ROS_project/RACER-test/src/RACER-main/swarm_exploration/poly_traj/include/**",
+        "/home/jyf/ROS_project/End_to_End_Flight/src/ego_planner/Utils/pose_utils/include/**",
+        "/home/jyf/ROS_project/End_to_End_Flight/src/ego_planner/Utils/quadrotor_msgs/include/**",
+        "/home/jyf/ROS_project/test_theory/src/simulation/include/**",
+        "/home/jyf/ROS_project/RACER-test/src/RACER-main/uav_simulator/so3_control/include/**",
+        "/home/jyf/ROS_project/RACER-test/src/RACER-main/uav_simulator/so3_disturbance_generator/include/**",
+        "/home/jyf/ROS_project/RACER-test/src/RACER-main/uav_simulator/so3_quadrotor_simulator/include/**",
+        "/home/jyf/ROS_project/End_to_End_Flight/src/ego_planner/traj_utils/include/**",
+        "/home/jyf/ROS_project/End_to_End_Flight/src/ego_planner/Utils/uav_utils/include/**",
+        "/home/jyf/ROS_project/End_to_End_Flight/src/data_collection/include/**",
+        "/usr/include/**"
+      ],
+      "name": "ROS",
+      "intelliSenseMode": "gcc-x64",
+      "compilerPath": "/usr/bin/gcc",
+      "cStandard": "gnu11",
+      "cppStandard": "c++14"
+    }
+  ],
+  "version": 4
+}
